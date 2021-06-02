@@ -1,0 +1,15 @@
+main.c:94:5:main	24	static
+main.c:160:6:SystemClock_Config	128	static
+main.c:210:13:MX_RNG_Init	8	static
+main.c:236:13:MX_SPI1_Init	8	static
+main.c:274:13:MX_TIM2_Init	32	static
+main.c:319:13:MX_USART2_UART_Init	8	static
+main.c:354:13:MX_GPIO_Init	48	static
+main.c:376:6:max7219	16	static
+main.c:383:6:display	16	static
+main.c:402:6:generate_food	16	static
+main.c:416:6:move	24	static
+main.c:473:6:game_over	8	static
+main.c:478:8:make_dot	8	static
+main.c:481:6:HAL_UART_RxCpltCallback	16	static
+main.c:514:6:Error_Handler	8	static,ignoring_inline_asm
